@@ -1,0 +1,22 @@
+{
+  "name": "testingparctice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henrycode460/testingParctice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henrycode460/testingParctice/issues"
+  },
+  "homepage": "https://github.com/henrycode460/testingParctice#readme",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
